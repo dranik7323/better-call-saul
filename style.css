@@ -1,0 +1,56 @@
+body {
+    font-family: sans-serif;
+}
+
+header{
+    background-color:LightSeaGreen ;
+    padding: 10px;
+    border-radius: 10px;
+}
+header b{
+    color: Navy;
+}
+h1{
+    background-color: PowderBlue;
+    color: MidnightBlue	;
+
+
+}
+header a{
+    background-color: white;
+    padding: 7px;
+    border-radius: 7px;
+    text-decoration:none;
+}
+footer {
+   background-color: BurlyWood;
+   padding: 5px;
+}
+footer p{
+    background-color: white;
+    padding: 5px;
+}
+nav a{
+    text-decoration: none;
+    margin : 10px;
+    color: Silver;
+}
+nav{
+    padding: 10px;
+    border: 4px solid Silver;
+    border-radius: 10px;
+}
+
+.sigma{
+   background-color: PaleGreen;
+}
+h2{
+    color: blue;
+
+
+}
+.danusha{
+    text-decoration: none;
+    border: 4px solid blue;
+    padding: 8px;
+}
